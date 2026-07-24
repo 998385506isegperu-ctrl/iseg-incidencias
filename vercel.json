@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/generate-report.js": {
+      "maxDuration": 60
+    }
+  }
+}
